@@ -4,12 +4,6 @@
 
 ## [Requirements](https://docs.banuba.com/face-ar-sdk-v1/overview/system_requirements)
 
-## Usage
-### Token
-Before you commit to a license, you are free to test all the features of the SDK for free. To start it, [send us a message](https://www.banuba.com/facear-sdk/face-filters#form).  
-We will get back to you with the trial token.
-You can store the token within the app.  
-
 Feel free to [contact us](https://docs.banuba.com/face-ar-sdk-v1/support) if you have any questions.
 
 ### Getting Started
